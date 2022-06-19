@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/mat.zip/static/js/main.1d30c11f.js",
-    "index.html": "/mat.zip/index.html",
-    "main.1d30c11f.js.map": "/mat.zip/static/js/main.1d30c11f.js.map"
+    "main.js": "/mat.zip-front/static/js/main.a8ee9cfd.js",
+    "index.html": "/mat.zip-front/index.html",
+    "main.a8ee9cfd.js.map": "/mat.zip-front/static/js/main.a8ee9cfd.js.map"
   },
   "entrypoints": [
-    "static/js/main.1d30c11f.js"
+    "static/js/main.a8ee9cfd.js"
   ]
 }
