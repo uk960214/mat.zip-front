@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/mat.zip-front/static/js/main.d052ff37.js",
+    "main.js": "/mat.zip-front/static/js/main.bf0a3d27.js",
     "static/media/logo.svg": "/mat.zip-front/static/media/logo.d82b88fdedef6a5fda9059aeacd27499.svg",
     "index.html": "/mat.zip-front/index.html",
-    "main.d052ff37.js.map": "/mat.zip-front/static/js/main.d052ff37.js.map"
+    "main.bf0a3d27.js.map": "/mat.zip-front/static/js/main.bf0a3d27.js.map"
   },
   "entrypoints": [
-    "static/js/main.d052ff37.js"
+    "static/js/main.bf0a3d27.js"
   ]
 }
